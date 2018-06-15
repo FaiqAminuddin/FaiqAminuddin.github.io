@@ -16,8 +16,8 @@
 title: Pena Remaja Digital
 email: mtsirsyaduththullab@yahoo.co.id
 description: Pena Remaja Digital merupakan perkembangan dari majalah pelajar Pena Remaja
-baseurl: "/mtsitb" # the subpath of your site, e.g. /blog
-url: "http://s.id" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mtsitb
 github_username:  FaiqAminuddin
 
