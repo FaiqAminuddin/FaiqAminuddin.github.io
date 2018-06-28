@@ -2,7 +2,7 @@
 layout: post
 title:  Cewek PHP
 date:   2018-06-15 21:58:35 +0700
-categories: berita
+categories: cerpen
 ---
 *cerpen kiriman Ikha dan Intan*
 
