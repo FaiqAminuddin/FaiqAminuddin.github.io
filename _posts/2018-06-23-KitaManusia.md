@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Kita Manusia
+date:   2018-06-23
+categories: berita
+---
+
 ![](/Haflah 18/IMG-20180621-WA0023haflah mbah mujazi.jpg)
 
 Rabu malam Kamis, 20 Juni 2018 YPI ITB telah sukses menyelenggarakan pengajian umum bersama Bapak KH Mujazi Abdillah.
