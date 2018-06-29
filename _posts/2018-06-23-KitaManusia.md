@@ -35,3 +35,8 @@ Manusia bukanlah binatang buas yang suka menyakiti dan memangsa orang lain.
 
 Kita adalah manusia. Isteri, anak-anak dan murid-murid kita juga manusia.
 
+
+-----
+Pena Remaja Digital juga dapat dibaca melalui channel Telegram [Pena Remaja](https://t.me/PenaRemajaitb)
+
+

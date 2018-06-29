@@ -13,3 +13,6 @@ Kali ini kami mencoba mengelola isi Pena Remaja dengan memanfaatkan Markdown, Je
 Format Markdown kami pilih agar isi Pena Remaja lebih mudah dikelola dalam berbagai bentuk; cetak atau elektronik. Jekyll kami manfaatkan untuk mengelola tampilan web Pena Remaja dapat dibaca secara luring maupun daring. Untuk penyiaran Pena Remaja secara daring kami memanfaatkan Github.
 
 Sungguh kami sangat mengharapkan berbagai masukan dari para pembaca agar Pena Remaja bisa lebih bermanfaat.
+
+-----
+Pena Remaja Digital juga dapat dibaca melalui channel Telegram [Pena Remaja](https://t.me/PenaRemajaitb)
