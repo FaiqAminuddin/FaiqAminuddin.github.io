@@ -13,6 +13,7 @@ Pengurus IPSI kabupaten Demak Tahun 2019 menyelenggarakan Kejurkab Pencak Silat 
 Beberapa pesilat MTs NU Irsyaduth Thullab sudah bersiap-siap untuk ikut bertanding pada kejurkab yang insya Allah akan dilaksanakan besok pada :
 
  Hari & Tanggal : Sabtu dan Minggu, Tgl. 09 dan 10 November 2019.
+
  Tempat : GOR Kelurahan Mangunjiwan Demak
 
 Pengurus berharap dengan sering diadakannya kejuaraan-kejuaraan Pencak Silat dapat meningkatkan
