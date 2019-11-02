@@ -6,7 +6,7 @@ categories: berita
 ---
 # Kegiatan MTs NU Irsyaduth Thullab di bulan November 2019
 
-![](/kesan19.png)
+![](/rebana.png)
 
 Bulan November 2019 sudah di depan pintu. Tahun ini bulan November hampir bersamaan dengan bulan Robi'ul Awwal, bulan kelahiran junjungan kita; Nabi agung Muhammad Saw. Alhamdulillah.
 
