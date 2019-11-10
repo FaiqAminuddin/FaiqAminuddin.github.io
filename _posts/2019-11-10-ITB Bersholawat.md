@@ -31,6 +31,20 @@ Alhamdulillah, acara sudah berjalan dengan meriah dan lancar. Sekitar pukul 12.0
 
 Semoga kita semua termasuk umat nabi Muhammad saw yang selalu mendapat Syafa'atnya, terutama kelak di hari kiamat. Amin.
 
+![](/itbbersholawat1)
+![](/itbbersholawat2)
+![](/itbbersholawat3)
+![](/itbbersholawat4)
+![](/itbbersholawat5)
+![](/itbbersholawat6)
+![](/itbbersholawat7)
+![](/itbbersholawat8)
+![](/itbbersholawat9)
+![](/itbbersholawat10)
+![](/itbbersholawat11)
+![](/itbbersholawat12)
+![](/itbbersholawat13)
+![](/itbbersholawat14)
 
 -----
 Pena Remaja Digital juga dapat dibaca melalui channel Telegram [Pena Remaja](https://t.me/PenaRemajaitb)
